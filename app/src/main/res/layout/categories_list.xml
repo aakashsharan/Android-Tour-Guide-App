@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/categories_list"
+    tools:context="cloud.aakashsharan.tourguideapp.NewDelhi">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+        android:background="@color/sights_landmark">
+
+        <TextView
+            android:id="@+id/sights_landmarks"
+            style="@style/CategoryStyle"
+            android:text="@string/sights_landmark" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/outdoor">
+
+        <TextView
+            android:id="@+id/outdoor"
+            style="@style/CategoryStyle"
+            android:text="@string/outdoor" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/food_drink">
+
+        <TextView
+            android:id="@+id/food_drink"
+            style="@style/CategoryStyle"
+            android:text="@string/food_drink" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/shopping">
+
+        <TextView
+            android:id="@+id/shopping"
+            style="@style/CategoryStyle"
+            android:text="@string/shopping" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/tours">
+
+        <TextView
+            android:id="@+id/tours"
+            style="@style/CategoryStyle"
+            android:text="@string/tours" />
+    </FrameLayout>
+
+</LinearLayout>

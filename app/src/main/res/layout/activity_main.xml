@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan_background"
+    android:orientation="vertical"
+    tools:context="cloud.aakashsharan.tourguideapp.MainActivity">
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/new_delhi">
+
+        <TextView
+            android:id="@+id/new_delhi_city"
+            style="@style/CategoryStyle"
+            android:text="@string/new_delhi" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/mumbai">
+
+        <TextView
+            android:id="@+id/mumbai_city"
+            style="@style/CategoryStyle"
+            android:text="@string/mumbai" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/chennai">
+
+        <TextView
+            android:id="@+id/chennai"
+            style="@style/CategoryStyle"
+            android:text="@string/chennai" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/amritsar">
+
+        <TextView
+            android:id="@+id/amritsar"
+            style="@style/CategoryStyle"
+            android:text="@string/amritsar" />
+    </FrameLayout>
+
+
+</LinearLayout>

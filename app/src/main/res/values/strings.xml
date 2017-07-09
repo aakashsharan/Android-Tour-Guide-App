@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <!-- string name for New Delhi city -->
+    <string name="new_delhi">New Delhi</string>
+
+    <!-- string name for Mumbai city -->
+    <string name="mumbai">Mumbai</string>
+
+    <!-- string name for Chennai city -->
+    <string name="chennai">Chennai</string>
+
+    <!-- string name for Amritsar city -->
+    <string name="amritsar">Amritsar</string>
+
+    <!-- string name for Sights & Landmarks category -->
+    <string name="sights_landmark">Sights &amp; Landmarks</string>
+
+    <!-- string name for Food & Drink category -->
+    <string name="food_drink">Food &amp; Drink</string>
+
+    <!-- string name for Outdoor Activities category -->
+    <string name="outdoor">Outdoor Activities</string>
+
+    <!-- string name for Shopping category -->
+    <string name="shopping">Shopping</string>
+
+    <!-- string name for Nightlife category -->
+    <string name="nightlife">Nightlife</string>
+
+    <!-- string name for Tours category -->
+    <string name="tours">Tours</string>
+
+</resources>

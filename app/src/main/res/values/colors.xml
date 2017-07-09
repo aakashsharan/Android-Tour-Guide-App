@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#BCAAA4</color>
+
+    <!-- Background color for the New Delhi City -->
+    <color name="new_delhi">#607D8B</color>
+
+    <!-- Background color for the Mumbai City -->
+    <color name="mumbai">#E64A19</color>
+
+    <!-- Background color for the Chennai City -->
+    <color name="chennai">#673AB7</color>
+
+    <!-- Background color for the Amritsar City -->
+    <color name="amritsar">#00695C</color>
+
+    <!-- Background color for the Sights & Landmarks -->
+    <color name="sights_landmark">#FF6D00</color>
+
+    <!-- Background color for the Outdoor Activities -->
+    <color name="outdoor">#33691E</color>
+
+    <!-- Background color for the Tours -->
+    <color name="tours">#795548</color>
+
+    <!-- Background color for the Shopping -->
+    <color name="shopping">#C51162</color>
+
+    <!-- Background color for the Food & Drink -->
+    <color name="food_drink">#9E9D24</color>
+
+</resources>
