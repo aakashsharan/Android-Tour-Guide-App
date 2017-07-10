@@ -26,12 +26,9 @@
     <color name="outdoor">#33691E</color>
 
     <!-- Background color for the Tours -->
-    <color name="tours">#795548</color>
-
-    <!-- Background color for the Shopping -->
-    <color name="shopping">#C51162</color>
+    <color name="tours">#C51162</color>
 
     <!-- Background color for the Food & Drink -->
-    <color name="food_drink">#9E9D24</color>
+    <color name="food_drink">#8D6E63</color>
 
 </resources>

@@ -44,17 +44,6 @@
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/shopping">
-
-        <TextView
-            android:id="@+id/shopping"
-            style="@style/CategoryStyle"
-            android:text="@string/shopping" />
-    </FrameLayout>
-
-    <FrameLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
         android:background="@color/tours">
 
         <TextView

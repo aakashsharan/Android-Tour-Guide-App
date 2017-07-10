@@ -16,13 +16,14 @@ public class NewDelhi extends AppCompatActivity {
 
 
         // Find the view that shows Sights & Landmarks
-        TextView sightsLandmarks = (TextView) findViewById(R.id.sights_landmarks);
+        final TextView sightsLandmarks = (TextView) findViewById(R.id.sights_landmarks);
 
         // Set a click listener on newDelhi View
         sightsLandmarks.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v) {
                 Intent sightsLandmarksIntent = new Intent(NewDelhi.this, SightsLandmarks.class);
+                sightsLandmarksIntent.putExtra("caller", "NewDelhiActivity");
                 startActivity(sightsLandmarksIntent);
             }
         });
@@ -35,31 +36,21 @@ public class NewDelhi extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent outdoorsIntent = new Intent(NewDelhi.this, Outdoors.class);
+                outdoorsIntent.putExtra("caller", "NewDelhiActivity");
                 startActivity(outdoorsIntent);
             }
         });
 
         // Find the view that shows Food & Drink
-        TextView foodDrink = (TextView) findViewById(R.id.food_drink);
+        final TextView foodDrink = (TextView) findViewById(R.id.food_drink);
 
         // Set a click listener on newDelhi View
         foodDrink.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v) {
                 Intent foodDrinkIntent = new Intent(NewDelhi.this, FoodDrink.class);
+                foodDrinkIntent.putExtra("caller", "NewDelhiActivity");
                 startActivity(foodDrinkIntent);
-            }
-        });
-
-        // Find the view that shows Shopping
-        TextView shopping = (TextView) findViewById(R.id.shopping);
-
-        // Set a click listener on newDelhi View
-        shopping.setOnClickListener(new View.OnClickListener(){
-            @Override
-            public void onClick(View v) {
-                Intent shoppingIntent = new Intent(NewDelhi.this, Shopping.class);
-                startActivity(shoppingIntent);
             }
         });
 
@@ -71,6 +62,7 @@ public class NewDelhi extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent toursIntent = new Intent(NewDelhi.this, Tours.class);
+                toursIntent.putExtra("caller", "NewDelhiActivity");
                 startActivity(toursIntent);
             }
         });

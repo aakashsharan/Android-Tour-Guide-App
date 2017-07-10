@@ -58,9 +58,6 @@
             android:name=".FoodDrink"
             android:label="@string/food_drink" />
         <activity
-            android:name=".Shopping"
-            android:label="@string/shopping" />
-        <activity
             android:name=".Tours"
             android:label="@string/tours" />
 

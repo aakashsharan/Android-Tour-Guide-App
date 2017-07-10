@@ -17,22 +17,24 @@ public class Mumbai extends AppCompatActivity {
         TextView sightsLandmarks = (TextView) findViewById(R.id.sights_landmarks);
 
         // Set a click listener on newDelhi View
-        sightsLandmarks.setOnClickListener(new View.OnClickListener(){
+        sightsLandmarks.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent sightsLandmarksIntent = new Intent(Mumbai.this, SightsLandmarks.class);
+                sightsLandmarksIntent.putExtra("caller", "MumbaiActivity");
                 startActivity(sightsLandmarksIntent);
             }
         });
 
         // Find the view that shows Outdoors
-        TextView outdoors = (TextView) findViewById(R.id.outdoor);
+        final TextView outdoors = (TextView) findViewById(R.id.outdoor);
 
         // Set a click listener on newDelhi View
-        outdoors.setOnClickListener(new View.OnClickListener(){
+        outdoors.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent outdoorsIntent = new Intent(Mumbai.this, Outdoors.class);
+                outdoorsIntent.putExtra("caller", "MumbaiActivity");
                 startActivity(outdoorsIntent);
             }
         });
@@ -41,23 +43,12 @@ public class Mumbai extends AppCompatActivity {
         TextView foodDrink = (TextView) findViewById(R.id.food_drink);
 
         // Set a click listener on newDelhi View
-        foodDrink.setOnClickListener(new View.OnClickListener(){
+        foodDrink.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent foodDrinkIntent = new Intent(Mumbai.this, FoodDrink.class);
+                foodDrinkIntent.putExtra("caller", "MumbaiActivity");
                 startActivity(foodDrinkIntent);
-            }
-        });
-
-        // Find the view that shows Shopping
-        TextView shopping = (TextView) findViewById(R.id.shopping);
-
-        // Set a click listener on newDelhi View
-        shopping.setOnClickListener(new View.OnClickListener(){
-            @Override
-            public void onClick(View v) {
-                Intent shoppingIntent = new Intent(Mumbai.this, Shopping.class);
-                startActivity(shoppingIntent);
             }
         });
 
@@ -65,10 +56,11 @@ public class Mumbai extends AppCompatActivity {
         TextView tours = (TextView) findViewById(R.id.tours);
 
         // Set a click listener on newDelhi View
-        tours.setOnClickListener(new View.OnClickListener(){
+        tours.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent toursIntent = new Intent(Mumbai.this, Tours.class);
+                toursIntent.putExtra("caller", "MumbaiActivity");
                 startActivity(toursIntent);
             }
         });

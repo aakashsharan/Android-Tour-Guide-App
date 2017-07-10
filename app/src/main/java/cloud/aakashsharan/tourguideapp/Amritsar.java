@@ -14,13 +14,14 @@ public class Amritsar extends AppCompatActivity {
         setContentView(R.layout.categories_list);
 
         // Find the view that shows Sights & Landmarks
-        TextView sightsLandmarks = (TextView) findViewById(R.id.sights_landmarks);
+        final TextView sightsLandmarks = (TextView) findViewById(R.id.sights_landmarks);
 
         // Set a click listener on newDelhi View
         sightsLandmarks.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v) {
                 Intent sightsLandmarksIntent = new Intent(Amritsar.this, SightsLandmarks.class);
+                sightsLandmarksIntent.putExtra("caller", "AmritsarActivity");
                 startActivity(sightsLandmarksIntent);
             }
         });
@@ -33,6 +34,7 @@ public class Amritsar extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent outdoorsIntent = new Intent(Amritsar.this, Outdoors.class);
+                outdoorsIntent.putExtra("caller", "AmritsarActivity");
                 startActivity(outdoorsIntent);
             }
         });
@@ -45,19 +47,8 @@ public class Amritsar extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent foodDrinkIntent = new Intent(Amritsar.this, FoodDrink.class);
+                foodDrinkIntent.putExtra("caller", "AmritsarActivity");
                 startActivity(foodDrinkIntent);
-            }
-        });
-
-        // Find the view that shows Shopping
-        TextView shopping = (TextView) findViewById(R.id.shopping);
-
-        // Set a click listener on newDelhi View
-        shopping.setOnClickListener(new View.OnClickListener(){
-            @Override
-            public void onClick(View v) {
-                Intent shoppingIntent = new Intent(Amritsar.this, Shopping.class);
-                startActivity(shoppingIntent);
             }
         });
 
@@ -69,6 +60,7 @@ public class Amritsar extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent toursIntent = new Intent(Amritsar.this, Tours.class);
+                toursIntent.putExtra("caller", "AmritsarActivity");
                 startActivity(toursIntent);
             }
         });
