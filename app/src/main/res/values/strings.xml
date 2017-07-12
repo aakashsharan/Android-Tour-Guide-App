@@ -3,32 +3,152 @@
 
     <!-- string name for New Delhi city -->
     <string name="new_delhi">New Delhi</string>
-
     <!-- string name for Mumbai city -->
     <string name="mumbai">Mumbai</string>
-
     <!-- string name for Chennai city -->
     <string name="chennai">Chennai</string>
-
     <!-- string name for Amritsar city -->
     <string name="amritsar">Amritsar</string>
-
     <!-- string name for Sights & Landmarks category -->
     <string name="sights_landmark">Sights &amp; Landmarks</string>
-
     <!-- string name for Food & Drink category -->
     <string name="food_drink">Food &amp; Drink</string>
-
     <!-- string name for Outdoor Activities category -->
     <string name="outdoor">Outdoor Activities</string>
-
     <!-- string name for Shopping category -->
     <string name="shopping">Shopping</string>
-
     <!-- string name for Nightlife category -->
     <string name="nightlife">Nightlife</string>
-
     <!-- string name for Tours category -->
     <string name="tours">Tours</string>
+
+    <string name="hum1">Humayun\'s Tomb</string>
+    <string name="hum2">This tomb, built in 1570, is of particular cultural significance as it was the first garden-tomb on the Indian subcontinent. It inspired several major architectural innovations, culminating in the construction of the Taj Mahal and many other Mughal architecture and garden complexes in India.</string>
+
+    <string name="qub1">Qutab Minar</string>
+    <string name="qub2">Construction on this sandstone minaret was begun in 1192. Surrounded by other historical sites, it is the most popular monument in India. Miniature Souvenir is available at Luv Indiya, 12 B Janpath Market, Connaught Place, New Delhi</string>
+
+    <string name="lodi1">Lodi Gardens</string>
+    <string name="lodi2">An oasis in an otherwise crowded, dusty city, Lodi Gardens is the perfect place to spend a relaxing afternoon admiring nature.</string>
+
+    <string name="iskcon1">ISKCON Temple</string>
+    <string name="iskcon2">This elaborate temple of the Hare Krishna is one of the largest in India.</string>
+
+    <string name="kan1">Kanheri Caves</string>
+    <string name="kan2">Kanheri the best part about the national park situated right in the city. The road leading to the caves is well maintained and a fun 7-8 kms drive. The caves are beautiful and make you feel calm.</string>
+
+    <string name="siddhi1">Shree Siddhivinayak</string>
+    <string name="siddhi2">Located in Mumbai’s central area, Prabhadevi, this temple is the most revered Lord Ganesh temple not only of Maharashtra but also of India.</string>
+
+    <string name="mary1">Mount Mary Church</string>
+    <string name="mary2">This is a beautiful Roman Catholic Church which is very famous for the week-long Bandra fair which takes place here every year in September.</string>
+
+    <string name="cpt1">Chhatrapati Shivaji Terminus</string>
+    <string name="cpt2">India\'s most beautiful railway station is a masterpiece of Gothic architecture with stained-glass windows, towering spires, domed arches and buttresses and pillars with animal images carved into them.</string>
+
+    <string name="kap1">Kapaleeshwar Temple</string>
+    <string name="kap2">This ancient shrine to Shiva is centrally located and among the area’s most popular landmarks.</string>
+
+    <string name="sai1">Shirdi Sai Baba Temple</string>
+    <string name="sai2">Nice ambience. the temple also includes separate abodes for Gayathri devi, and Dattatreya.</string>
+
+    <string name="iit1">Indian Institute Of Technology, Madras</string>
+    <string name="iit2">Madras IIT is one of the most prestigious Institute of Technology was established in 1959 and the campus of the Institute was part of the Guindy National Park.</string>
+
+    <string name="ham1">Harmandir Sahib</string>
+    <string name="ham2">Sri Harmandir Sahib also Sri Darbar Sahib informally referred to as the Golden Temple, is the holiest Gurdwara of Sikhism, located in the city of Amritsar.</string>
+
+    <string name="akal1">Akal Takht</string>
+    <string name="akal2">Located in the Golden temple complex itself, Akal Takht sahib is one of the 5 seats of power in the Sikh religion, daily hukumnama is read. The building of shri Akal Takht is located directly opposite the Harmandir Sahib was founded by sixth Sikh Guru, Guru Hargobind, as a symbol of political sovereignty and where spiritual and temporal concerns of the Sikh people could be addressed</string>
+
+    <string name="jall1">Jallianwala Bagh</string>
+    <string name="jall2">This is the site of the April 13, 1919 massacre of hundreds of innocents by British troops.</string>
+
+    <string name="gobin1">Gobindgarh Fort</string>
+    <string name="gobin2">Gobindgarh Fort is located inside the Lohgarh Darwaza on the Old Cant. road. Built in the 19th century, it was under the reign of Bhangi-misl, Maharaja Ranjit Singh, British and the Indian army. It is now open to public.</string>
+
+    <string name="ndmk1">Private Custom Shopping Tour: Delhi\'s Bustling Markets</string>
+    <string name="ndmk2">"Shop like a local, not a visitor, on a private, customized 6-hour shopping tour of Delhi. Select three or four markets and enjoy a flexible itinerary, shopping and strolling at each at your own pace. Dive into legendary Chandni Chowk for jewelry, electronics, and one-of-a-kind clothing. Choose to visit everything from Delhi's budget-friendly bazaars to malls to handicraft villages.</string>
+
+    <string name="mughal1">Mughal Heritage Tour Including Lodhi Garden, Humayun Tomb and Akshardham Temple</string>
+    <string name="mughal2">Gain a deeper understanding of Mughal history, influence and rule on this popular tour of Delhi landmarks. Learn about the Sai Baba Temple and tour the picturesque Lodi Garden. Get an up close look at history as you walk through the Human Tomb. This memorable journey of culture and history concludes with a visit to the Akshardham Temple and a show at the musical fountains.</string>
+
+    <string name="spi_delhi1">Spiritual Delhi Temples Full-Day Private Guided Tour</string>
+    <string name="spi_delhi2">Explore the temples of Delhi and the diversity of religions in India on a private full-day tour. Accompanied by your private guide, see ISKCON temple, Lotus Temple, Chattarpur Temple, Gurudwara Bangla Sahib, Akshardham Temple, and Birla Mandir (Lakshmi Narayan Temple). Includes entrance fees, private guide and transportation, and hotel pickup and drop-off.</string>
+
+    <string name="dharavi1">Dharavi Slum Small-Group Tour</string>
+    <string name="dharavi2">See a different side of Mumbai on this 2.5-hour walking tour of the Dharavi slum. Visit the community center and tour the textiles, recycling, and leather tanning businesses run by the local residents.</string>
+
+    <string name="high_mumbai1">Highlights of Mumbai: Sightseeing Tour of Mumbai</string>
+    <string name="high_mumbai2">In this tour we offer you a fascinating \'getaway\' that gives you a ringside view of the \'madness and magic\' of MUMBAI - the living city that \'never sleeps\'. Visit Includes Dhobi Ghat, Hanging Garden, Mani Bhavan, Marine drive, Gateway of India, Drive passes High Court, Prince of wales Museum, University, Flora fountain, Visit to Crawford Market and Victoria terminus now Cst, Jain temple, Banganga tank.</string>
+
+    <string name="private_mumbai1">Private Mumbai City Tour</string>
+    <string name="private_mumbai2">Join this tour to visit the various landmarks of Mumbai all in a day. You will be accompanied by an English-speaking guide who walk you through the historical importance as well as the present day relevance of each place you visit.</string>
+
+    <string name="story_trails1">Storytrails</string>
+    <string name="story_trails2">Story-based walking tours and short excursions that zig-zag through the beat and the pulse of the city; from its oldest parts to its busy bazaars, through dance and art to its rural heart. Unlike sight-seeing tours, these trails focus on the everyday sights on the streets - the local customs, symbolisms and the fascinating stories behind the mundane rituals of life. Hosted by a team of articulate storytellers, these trails are an enjoyable way for visitors to appreciate the local way of life. Pick from nine different tours in Chennai.</string>
+
+    <string name="foodie_day1">Foodies Day Out</string>
+    <string name="foodie_day2">Foodies Day Out at Madurai, offers you the best food tour in the country. As we walk and ride through the city\'s authentic eateries you will sample the best food the temple town has to offer. A food tour that covers everything from the local snacks to dessert that the locals relish. Get ready for a gastronomical experience of your life !</string>
+
+    <string name="five_senses1">Five Senses Tours</string>
+    <string name="five_senses2">Five Senses Tours Private Limited Company offers culture tours in India. We offer a cultural immersive experience that connects you to the essence of India and its people. We keep things local on our tours. Our guides are from the local community and don the hat of cultural ambassadors. The theme of our experiences is around the art, culture and traditions prevalent in the area.</string>
+
+    <string name="food_trail1">Foodtrailsindia</string>
+    <string name="food_trail2">With FoodtrailsIndia, we want you to see the Guru di Nagri (Guru’s city), as Amritsar is fondly called, on foot and indulge in tasting the centuries old recipes of the Old city apart from experiencing traditional markets. With its narrow bylanes and more than 3000 shops inside the old city, the old city guarded by 12 historical gates, the old city offers travelers a chance to explore the city.</string>
+
+    <string name="davin_heritage1">Davinder Singh\'s Amritsar Heritage Walk</string>
+    <string name="davin_heritage2">Davinder\'s 7:30 a.m. Amritsar Heritage tour, which in addition to excellent orientation on both Sikhism and the city, as well as insights on architecture and very good street food (like Kulchas, cooked in a Tandoori oven, and buffalo milk yogurt, both of which one has the option of sampling on the tour).</string>
+
+    <string name="old_del_baz1">Old Delhi Bazaar Walk and Haveli Visit</string>
+    <string name="old_del_baz2">Our Old Delhi tours are combination of Food, Heritage and culture with walking and cycle rickshaw( Pedi cab) ride to make a comfortable experience at Old Delhi. It is off the eaten / beaten path and a feast for all the senses. We recommend our guests to see Delhi not just as a sightseeing tour or sitting simply on a cycle rickshaw / Pedi cab or in a taxi BUT see it through our eyes to experience the city on the whole with its past and present, with its beliefs and its culture that co-exist. Our walks give a taste of the city and make you sink in the frenzy of its colours, vivacity and irresistible charm. Your senses come alive as you will encounter the many captivating sights and sounds this amazing city has.</string>
+
+    <string name="saffron1">Saffron Palate</string>
+    <string name="saffron2">Experience an authentic Indian Kitchen with an Indian Family in the heart and heritage of Hauz Khas in Delhi.Delectable Indian cuisine experience to learn, relish and cherish for life. Various Experience options which include ; (Enjoy an Indian meal with our Family) , (Learn to cook Indian Food and understand the basic nuances of Indian food and spices) , (Learn to cook Sattvic / Yogic Indian Food), (Visit the Spice and Vegetable market for a first hand orientation of Spices , Lentils and Vegetables used in our Food followed by a cooking class), (Visit the Handicrafts , Spice and Vegetable Market followed by Cooking class and meal) and (High Tea and sumptuous Indian snacks along with a Walk to the Monuments in the historic area of Hauz Khas).</string>
+
+    <string name="del_food_walks1">Delhi Food Walks</string>
+    <string name="del_food_walks2">Delhi Food Walks conduct food expeditions to relish the food culture of Delhi and interact with the fellow food enthusiasts. It began in 2011 to act as a bastion of Delhi food culture.</string>
+
+    <string name="street_mumbai1">Street Food During Ramzan</string>
+    <string name="street_mumbai2">Ramzan time is the best time to be in this locality to eat the vast variety of street food here, from tandoor items to main courses and sweet dishes it is the best food in all of Mumbai, a must visit in this time of the year</string>
+
+    <string name="mum_moments1">Mumbai Moments</string>
+    <string name="mum_moments2">Welcome to our city. Mumbai as we see it, we invite you to discover our home, in all its true COLOURS. Mumbai is a city that will mesmerize you with its sights, sounds and smells! If you are you looking out for some incredible authentic Mumbai experience, then we recommend you to go for our Mumbai Moments tours. If you are a leisure traveler or on a business, we help you to discover the essence of this city with our specialized and personalized, private and group, customized Mumbai city tours.</string>
+
+    <string name="travel_spoon1">Traveling Spoon</string>
+    <string name="travel_spoon2">Traveling Spoon provides travelers with private, authentic food experiences, from homemade meals to cooking classes and market tours, with local hosts in their homes.</string>
+
+    <string name="cook_sundari1">Cook With SundariKrishna</string>
+    <string name="cook_sundari2">Continuous interaction with a number of International visitors to Chennai, India during the last few years, has encouraged me to provide a platform where guests are not only in a position to enjoy the nuances of Indian fine dining but further learn the art of cooking depending on their interest. The guests can choose from a variety of menu lists which will be provided through email on booking.</string>
+
+    <string name="spin_monkey1">SpinMonkey</string>
+    <string name="spin_monkey2">We at SPINMONKEY want to take you out for a spin and get you to explore Delhi like never before! We have a wide variety of tours to choose from and you can select the one that suits your interests and schedule. SPINMONKEY RIDES give you unmatched experience and help you remember Delhi fondly when you go back home. We recommend it highly and it will be worth every penny spent! With cycling tours customised for tourists, couples, families, corporates, adventure enthusiasts and even the locals, SPINMONKEY is the best way to tour Delhi and experience its culture, heritage and culinary delights. If you enjoy traveling with a group, meeting new people and exploring new destinations in non-traditional ways, then SpinMonkey is the best fit for you. Our bicycle tours provide the convenience of having everything planned out for you. You usually bike in a group of 8 to 15 people, typically from several different countries, which make for new acquaintances and international friendships. Most tour operators provide you with a comprehensive information package with tips on sights, cultural highlights, and scenic stops and ensure a fun filled ride!</string>
+
+    <string name="del_cycle1">DelhiByCycle</string>
+    <string name="del_cycle2">Namaste! Welcome to DelhiByCycle! A lifetime experience in the lively streets of Delhi is waiting for you! India is a country of contrast and colours and a strong inspiration for the mind! With our tours we invite you to become part of this unique mix of colours, smells, sounds, tastes and unforgettable images. Take the tour and experience the city of Delhi with all your senses for a true \'street experience\'! We have spent many, many hours cycling around, to see and feel what are the best places for you.We offer 4 tours - Shah Jahan, Yamuna, Raj and Nizamudddin - so you can fully explore the different corners of Old and New Delhi.We never try to make things more beautiful, hide difficult sceneries or avoid certain places. Our aim is to show Delhi as the Delhiites experience their city daily. Intense, sometimes overwhelming, but always satisfying in unexpected ways.Have a great tour!</string>
+
+    <string name="aqua_adven1">Aquaterra Adventures</string>
+    <string name="aqua_adven2">Aquaterra Adventures is the only Indian company to be rated twice in a row as best adventure travel outfitters on Earth, in a global survey by National Geographic Society, 2008 and 2009. We have been running trips and tours for the discerning traveller throughout the Indian Himalayas since 1995, yet the experience of our travel personnel dates well beyond that, to years of leading trips throughout the Indian Himalayan belt. We believe that an adventure travel outfit is only as good as its guides. Good equipment, food and guides is what makes an outdoor trip an experience to savour.</string>
+
+    <string name="chowpatty1">Chowpatty Beach</string>
+    <string name="chowpatty2">The action starts at night at this famous beach, which is lined with vendors, entertainers, children\'s rides and fast food stalls selling bhelpuris (puffed rice snacks) and other Indian delights.</string>
+
+    <string name="marine_drive1">Marine Drive</string>
+    <string name="marine_drive2">Bordering the Arabian Sea, this famous road is a popular spot for watching sunsets, and is gorgeous when lit up at night.</string>
+
+    <string name="juhu1">Juhu Beach</string>
+    <string name="juhu2">Not your typical swimming and bathing beach, this beach is best visited on weekend afternoons and evenings, when it comes alive with children\'s rides, carvnival-like amusements and food stands.</string>
+
+    <string name="arignar1">Arignar Anna Zoological Park</string>
+    <string name="arignar2">It is one of the oldest Zoological parks in the country. Vast area with lot of spaces and enclosures with a wide variety of animals.</string>
+
+    <string name="besant1">Besant Nagar Beach</string>
+    <string name="besant2">This is a must watch place in Chennai. The beach is relatively good. One can enjoy the cool breeze both in the morning as well as in the evening. Many people go for a morning walk along the beach shore. Many eateries are available along the beach shore.</string>
+
+    <string name="marina1">Marina Beach</string>
+    <string name="marina2">This expansive beach is Chennai\'s most famous tourist attraction, though the undercurrent is too strong for all but the strongest swimmers. Look out for the \'Kannagi\' statue on Marina Beach, which tells the story of the legendary character from a South Indian epic.</string>
+
+    <string name="rainbow1">Rainbow Resorts</string>
+    <string name="rainbow2">The facilities available are Water park, Go-karting(450 mts Tarmac track), Paintball, Adventure sports(Zip Line, Rappelling, Burma bridge, Hanging log), Boating, Kitty Party hall, Lush green Banquet lawn restaurant.</string>
 
 </resources>
